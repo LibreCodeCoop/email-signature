@@ -32,7 +32,7 @@
 
 | Line  | Description |
 | :-----| :-----------|
-| [508](https://github.com/LyseonTech/email-signature/blob/main/email.xhtml#L508)   | Twitter     |
+| [65](https://github.com/LyseonTech/email-signature/blob/9708d64097b0873e45c798c817abb69a1380903f/email.xhtml#L65)   | Twitter     |
 
 # Example
 #
