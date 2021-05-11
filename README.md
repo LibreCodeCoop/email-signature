@@ -19,12 +19,12 @@
 
 | Line | Description|
 |:------|:----------|
-| [244](https://github.com/LyseonTech/email-signature/blob/main/email.xhtml#L244)   | Name      |
-| [247](https://github.com/LyseonTech/email-signature/blob/main/email.xhtml#L247)   | Office    |
-| [250](https://github.com/LyseonTech/email-signature/blob/main/email.xhtml#L250)   | Address   |
-| [336](https://github.com/LyseonTech/email-signature/blob/main/email.xhtml#L336)   | Number    |
-| [418](https://github.com/LyseonTech/email-signature/blob/main/email.xhtml#L418)   | E-mail    |
-| [500](https://github.com/LyseonTech/email-signature/blob/main/email.xhtml#L500)   | WebSite   |
+| [27](https://github.com/LyseonTech/email-signature/blob/9708d64097b0873e45c798c817abb69a1380903f/email.xhtml#L27)   | Name      |
+| [30](https://github.com/LyseonTech/email-signature/blob/9708d64097b0873e45c798c817abb69a1380903f/email.xhtml#L30)   | Office    |
+| [35](https://github.com/LyseonTech/email-signature/blob/9708d64097b0873e45c798c817abb69a1380903f/email.xhtml#L35)   | Address   |
+| [46](https://github.com/LyseonTech/email-signature/blob/9708d64097b0873e45c798c817abb69a1380903f/email.xhtml#L46)   | Number    |
+| [52](https://github.com/LyseonTech/email-signature/blob/9708d64097b0873e45c798c817abb69a1380903f/email.xhtml#L52)   | E-mail    |
+| [58](https://github.com/LyseonTech/email-signature/blob/9708d64097b0873e45c798c817abb69a1380903f/email.xhtml#L58)   | WebSite   |
 
 #
 
