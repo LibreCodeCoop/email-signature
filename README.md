@@ -17,10 +17,11 @@
 
 ### Field for personal descriptions
 
-| Line | Description|
-|:------|:----------|
+| Line | Description| Attribute |
+|:------|:----------|:---|
 | [11](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L11)   | Name      |
 | [15](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L15)   | Office    |
+| [19](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L19)   | Number    | href |
 | [20](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L20)   | Number    |
 
 #
