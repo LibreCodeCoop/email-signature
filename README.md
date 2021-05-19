@@ -19,23 +19,22 @@
 
 | Line | Description|
 |:------|:----------|
-| [23](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L23)   | Name      |
-| [28](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L28)   | Office    |
-| [34](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L34)   | Address   |
-| [46](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L46)   | Number    |
-| [55](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L55)   | E-mail    |
-| [65](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L65)   | WebSite   |
+| [11](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L11)   | Name      |
+| [15](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L15)   | Office    |
+| [20](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L20)   | Number    |
 
 #
 
 ### Field for social networks
 
-| Line  | Description |
-| :-----| :-----------|
-| [75](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L75)   | Twitter     |
-| [80](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L80)   | Google Plus |
-| [87](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L87)   | Facebook    |
-| [92](https://github.com/LyseonTech/email-signature/blob/1437ecea820d5851cc4bd324948963a61616a524/email.xhtml#L92)   | Linkedin    |
+| Line  | Description | Attribute |
+| :-----| :-----------| :---- |
+| [24](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L24)   | WebSite    | href |
+| [26](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L26)   | Linkedin   | href | 
+| [28](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L28)   | Twitter    | href |
+| [30](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L30)   | Instagram  | href |
+| [32](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L32)   | Github     | href |
+| [34](https://github.com/LyseonTech/email-signature/blob/5779b5d3cb5437c6f5684982af03216c3d5f887e/email.html#L34)   | Telegram   | href |
 
 # Example
 #
