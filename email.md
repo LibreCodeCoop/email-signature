@@ -2,7 +2,7 @@
     <tbody>
         <tr>
             <td style="width:133px;text-align: center;border-right: 2px solid #7C7B7B;">
-                <a href="https://lt.coop.br/">
+                <a href="http://librecode.coop/">
                     <img alt="Logo" src="https://i.ibb.co/TYQc5xG/logo.png">
                 </a>
             </td>
@@ -21,7 +21,7 @@
                 </a>
                 <br>
                 <br>
-                <a href="https://lt.coop.br/" target="_blank">
+                <a href="http://librecode.coop/" target="_blank">
                     <img src="https://i.ibb.co/JqmCCzf/home.png" width="20"
                         height="20" alt="Site"></a><span>&nbsp;</span><a href="https://br.linkedin.com/company/lyseontech"
                     target="_blank"><img src="https://i.ibb.co/wLPN1Cd/linkedin.png" width="20"
@@ -31,7 +31,7 @@
                     target="_blank"><img src="https://i.ibb.co/dW7czrb/insta.png" width="20"
                         height="20" alt="Instagram"></a><span>&nbsp;</span><a href="https://github.com/LyseonTech" target="_blank"><img
                         src="https://i.ibb.co/mHJ2Y1N/github.png" width="20" height="20" alt="Github"></a><span>&nbsp;</span><a
-                    href="https://t.me/LyseonTech" target="_blank"><img src="https://i.ibb.co/vz5snK0/telegram.png"
+                    href="https://t.me/LibreCodeCoop" target="_blank"><img src="https://i.ibb.co/vz5snK0/telegram.png"
                         width="20" height="20" alt="Telegram">
                 </a>
             </td>
