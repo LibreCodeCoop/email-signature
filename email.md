@@ -23,7 +23,7 @@
                 <br>
                 <a href="http://librecode.coop/" target="_blank">
                     <img src="https://i.ibb.co/JqmCCzf/home.png" width="20"
-                        height="20" alt="Site"></a><span>&nbsp;</span><a href="https://br.linkedin.com/company/lyseontech"
+                        height="20" alt="Site"></a><span>&nbsp;</span><a href="https://br.linkedin.com/company/librecode"
                     target="_blank"><img src="https://i.ibb.co/wLPN1Cd/linkedin.png" width="20"
                         height="20" alt="Linkedin"></a><span>&nbsp;</span><a href="https://twitter.com/lyseontech"
                          target="_blank"><img src="https://i.ibb.co/Lt5wD0W/twitter.png" width="20"
