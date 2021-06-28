@@ -25,11 +25,11 @@
                     <img src="https://i.ibb.co/JqmCCzf/home.png" width="20"
                         height="20" alt="Site"></a><span>&nbsp;</span><a href="https://br.linkedin.com/company/librecode"
                     target="_blank"><img src="https://i.ibb.co/wLPN1Cd/linkedin.png" width="20"
-                        height="20" alt="Linkedin"></a><span>&nbsp;</span><a href="https://twitter.com/lyseontech"
+                        height="20" alt="Linkedin"></a><span>&nbsp;</span><a href="https://twitter.com/librecodecoop"
                          target="_blank"><img src="https://i.ibb.co/Lt5wD0W/twitter.png" width="20"
-                        height="20" alt="Twitter"></a><span>&nbsp;</span><a href="https://www.instagram.com/lyseontech/"
+                        height="20" alt="Twitter"></a><span>&nbsp;</span><a href="https://www.instagram.com/librecodecoop/"
                     target="_blank"><img src="https://i.ibb.co/dW7czrb/insta.png" width="20"
-                        height="20" alt="Instagram"></a><span>&nbsp;</span><a href="https://github.com/LyseonTech" target="_blank"><img
+                        height="20" alt="Instagram"></a><span>&nbsp;</span><a href="https://github.com/librecodecoop" target="_blank"><img
                         src="https://i.ibb.co/mHJ2Y1N/github.png" width="20" height="20" alt="Github"></a><span>&nbsp;</span><a
                     href="https://t.me/LibreCodeCoop" target="_blank"><img src="https://i.ibb.co/vz5snK0/telegram.png"
                         width="20" height="20" alt="Telegram">
